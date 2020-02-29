@@ -1,3 +1,3 @@
-a=5;
-b=6;
+apple=5;
+big=10;
 print(a-b);
